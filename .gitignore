@@ -1,0 +1,16 @@
+.DS_Store
+
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Shared schemes are tracked; per-user scheme state is not.
+Pomodore.xcodeproj/xcshareddata/IDEWorkspaceChecks.plist
+Pomodore.xcodeproj/project.xcworkspace/xcuserdata/
